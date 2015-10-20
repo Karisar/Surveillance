@@ -1,2 +1,2 @@
 # Surveillance
-My personal practicing project
+My personal Java project
